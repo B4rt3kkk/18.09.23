@@ -49,12 +49,12 @@ h2{
     outline-style: solid;
     outline-width: 2px;
 }
-.button:hover{
-    outline-color: #333533;
-    outline-style: solid;
-
+a:hover{
+    outline: 2px solid #ffd100;
+    background-color: #202020;
+    color: #ffd100;
 }
-button{
+a{
     background-color: #ffd100;
     float: right;
     width: 25%;
@@ -63,6 +63,7 @@ button{
     text-decoration: none;
     margin: 3%;
     padding: 4%;
+    text-align: center;
 }
 a{
     text-decoration: none;
