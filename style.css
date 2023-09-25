@@ -101,7 +101,7 @@ a{
     border-radius: 20px;
     padding: 20px;
     margin: auto;
-    width: 100%;
+    width: 80%;
     height: 35%;
     overflow-x: scroll;
     flex-direction: row;
@@ -114,13 +114,13 @@ table{
      height: 50%;
      width: 50%;
 } 
-thead{
-     background-color: #202020;
+
+th{
+    background-color: #202020;
      color: white;
      text-align: center;
 }
-tbody{
+td{
     background-color: #ffd100;
     text-align: center;
-
 }
