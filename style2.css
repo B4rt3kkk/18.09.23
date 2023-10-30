@@ -1,0 +1,40 @@
+@media (min-width: 1536px){
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #333533;
+}
+.pierwszy{
+    color: black;
+    background-color: #ffd100;
+    text-align: center;
+    font-size: 30px;
+    height: fit-content;
+    padding: 1%;
+}
+.info{
+    color: white;
+    background-color: #202020;
+    border-radius: 20px;
+    padding: 30px;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: 10%;
+    margin-top: 5%;
+    width: 175px;
+    height: 175px;
+    object-fit: cover;
+    align-items: center;
+    border-radius: 50%;
+    border: 2px solid #ffd100;
+    
+}
